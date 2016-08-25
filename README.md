@@ -6,6 +6,7 @@ Download the [PowerPoint](https://github.com/GSIAzureCOE/Media-Services/blob/mas
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
+* AMS End to End [[Demo Script](./Demos/EndToEnd)] [[Video](https://azurecatgsicontent.blob.core.windows.net/media-services/Media-Services-End-to-End-Demo.mp4)]
 
 ## Session Objectives
 * Understand the Media Services workflow
@@ -13,7 +14,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * Know when to use Content Delivery Networks
 
 ## Session Prerequisites
-* [Azure Subscription](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)
+* [Storage](https://github.com/GSIAzureCOE/Storage)
 
 ## Azure Services Covered
 * [Media Services](https://azure.microsoft.com/en-us/documentation/services/media-services/)
